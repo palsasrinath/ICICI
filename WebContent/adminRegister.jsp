@@ -186,8 +186,8 @@
 	    	<form:input name="email"   id="email"  path="email" class="form-control mand" placeholder="Enter Email"  type="email" required="autofocus"/>
 	    	<form:input name="password" id="password"     path="password" class="form-control mand" placeholder="Enter Password"  type="password" required="autofocus"/>
             <label>Gender:</label>
-	    	<form:radiobutton path="gender" id="gender"    value="Male"/>Male
-	    	<form:radiobutton path="gender" id="gender"   value="Female"/>Female
+	    	<form:radiobutton path="gender1" id="gender1"    value="Male"/>Male
+	    	<form:radiobutton path="gender1" id="gender1"   value="Female"/>Female
 	    	<form:input name="mobile"  id="mobileNumber"  path="mobileNumber" class="form-control mand" placeholder="Enter Mobile Number"  type="text" required="autofocus"/>
 	    	<form:input name="dob"   id="dateOfBirth" path="dateofbirth" class="form-control mand" placeholder="Enter DateOfBirth in dd/mm/yyyy format"  type="text" required="autofocus"/>
            	<form:input name="address" id="address"    path="address" class="form-control mand" placeholder="Enter Address"  type="text" required="autofocus"/>
@@ -212,7 +212,7 @@
 
 <div class="container-fluid">
 <div class="row">
-<div class="col-md-12 footer-1 text-center"><h4>Copyright © 2017   Money Bank All Rights Reserved. Website Developed by <code> Mktechnosoft</code></h4>
+<div class="col-md-12 footer-1 text-center"><h4>Copyright Â© 2017   Money Bank All Rights Reserved. Website Developed by <code> Mktechnosoft</code></h4>
 </div>
 </div>
 </div><!--end-container fluid-->
